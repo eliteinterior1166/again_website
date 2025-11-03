@@ -1478,3 +1478,19 @@ a.btn-link.text-light:after {
     margin-bottom: -90px;
   }
 }
+
+/* own css */
+.product_list{
+  list-style-type: disc;
+}
+
+.product_list li{
+  /* margin-left: 20px; */
+  margin-bottom: 10px;
+}
+
+.product_image{
+    width: 500px;
+    /* height: 200px;       Or your preferred size */
+  object-fit: cover;
+}
