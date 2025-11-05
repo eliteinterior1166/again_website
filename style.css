@@ -1493,4 +1493,12 @@ a.btn-link.text-light:after {
     width: 500px;
     /* height: 200px;       Or your preferred size */
   object-fit: cover;
+  border-radius: 25px;
+}
+
+.brands_img{
+  width: 200px;
+  height: 200px;       /* Or your preferred size */
+  object-fit: contain;
+  border-radius: 30px;
 }
